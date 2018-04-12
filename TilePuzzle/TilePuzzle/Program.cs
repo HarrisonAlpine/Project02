@@ -1,6 +1,6 @@
 ﻿// File/Project Prolog
 // Name:     Mr. McCullough
-// Period:   <PUT YOUR PERIOD HERE>
+// Period:   A1
 // Username: hmccullough
 // Project:  TilePuzzle
 // Date:     4/12/2018 8:42:55 AM
